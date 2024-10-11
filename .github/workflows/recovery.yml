@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://transfer.sh/https://ylsd7-my.sharepoint.com/personal/pikachu_ylsd7_onmicrosoft_com/_layouts/15/download.aspx?share=ETrjCkLT-_9ClIoqa4pNkfcBpq1WfGJlggcvMsidJNNUMg'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
